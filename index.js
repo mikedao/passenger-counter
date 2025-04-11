@@ -1,6 +1,5 @@
-let count = 0;
+let myAge = 46;
+let humanDogRatio = 7;
+let myDogAge = myAge * humanDogRatio;
 
-console.log("Hello World!");
-
-let myAge = 29;
-console.log(myAge);
+console.log(myDogAge);
